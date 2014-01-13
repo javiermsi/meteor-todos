@@ -8,7 +8,7 @@ APP_HOST=54.194.184.146
 EC2_PEM_FILE=~/Downloads/code/aws/aws-ireland-cv.pem
 
 # What's your project's Git repo?
-#GIT_URL=git://github.com/SachaG/Microscope.git
+GIT_URL=git://github.com/javiermsi/meteor-todos.git
 
 # Does your project use meteorite, or plain meteor?
 METEORITE=true
